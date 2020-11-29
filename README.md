@@ -17,6 +17,14 @@ Chromiumをseleniumから操作するためのドライバ。
 バージョンは、2.37.544315。
 
 ## Docker環境
+### ビルド済みイメージ
+
+https://hub.docker.com/r/kei198403/headless-chromium
+
+```
+docker pull kei198403/headless-chromium
+```
+
 ### base image
 ubuntu:20.04
 
