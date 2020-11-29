@@ -22,7 +22,7 @@ Chromiumをseleniumから操作するためのドライバ。
 https://hub.docker.com/r/kei198403/headless-chromium
 
 ```
-docker pull kei198403/headless-chromium
+docker pull kei198403/headless-chromium:latest
 ```
 
 ### base image
